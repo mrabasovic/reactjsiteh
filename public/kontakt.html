@@ -1,0 +1,68 @@
+
+      <section id="contact">
+
+         <div className="row section-head">
+
+            <div className="two columns header-col">
+
+               <h1><span>Kontaktirajte me.</span></h1>
+
+            </div>
+
+            
+
+         </div>
+
+         <div className="row">
+            <div className="eight columns">
+
+               <form id="contactForm" name="contactForm">
+					<fieldset>
+
+                  <div>
+						   <label htmlFor="contactName">Ime <span className="required">*</span></label>
+						   <input type="text" defaultValue="" size="35" id="contactName" name="contactName" />
+                  </div>
+
+                  <div>
+						   <label htmlFor="contactEmail">Email <span className="required">*</span></label>
+						   <input  type="text" defaultValue="" size="35" id="contactEmail" name="contactEmail" />
+                  </div>
+
+                  <div>
+						   <label htmlFor="contactSubject">Naslov</label>
+						   <input  type="text" defaultValue="" size="35" id="contactSubject" name="contactSubject" />
+                  </div>
+
+                  <div>
+                     <label htmlFor="contactMessage">Poruka <span className="required">*</span></label>
+                     <textarea cols="30" rows="10" id="contactMessage" name="contactMessage"></textarea>
+                  </div>
+
+                  <div>
+                     <button type='submit' onClick={handleClick} className="submit">Submit</button>
+                     
+                  </div>
+					</fieldset>
+				   </form>
+
+           
+
+
+            <aside className="four columns footer-widgets">
+               <div className="widget widget_contact">
+
+					   <h4>Adresa i telefon</h4>
+					   
+				   </div>
+
+               <div className="widget widget_tweets">
+
+		         </div>
+            </aside>
+      </div>
+   </section>
+    
+
+
+
