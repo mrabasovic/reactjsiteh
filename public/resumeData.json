@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name": "Mladen Rabasovic",
+    "occupation": "STUDENT FAKULTETA ORGANIZACIONIH NAUKA",
+    "description": "Informacioni sistemi i tehnologije",
+    "image": "ja.jpg",
+    "bio": "Moje ime je Mladen Rabasovic. Ovo je domaci iz predmeta internet tehnologije",
+    "contactmessage": "Za vise informacija kontaktirajte me",
+    "email": "rabasovicmladen@gmail.com",
+    "phone": "+381607272919",
+    "address": {
+      "street": "123 Ulica",
+      "city": "Beograd",
+      "state": "Srbija",
+      "zip": "11000"
+    },
+    "website": "http://www.mrabasovic.com",
+    "resumedownload": "http://mrabasovic.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mrabasovic",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mrabasovic/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mrabasovic/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mrabasovic",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Univerzitet u Beogradu - Fakultet Organizacionih Nauka",
+        "degree": "Informacioni sistemi i tehnologije",
+        "graduated": "2021",
+        "description": "Inzenjer organizacionih nauka"
+      }
+    ],
+    "work": [
+      {
+        "company": "Swift Projekat",
+        "title": "Poke3D",
+        "years": "2020",
+        "description": "AR iOS aplikacija koja prikazuje pokemone u 3D-u"
+      },
+      {
+        "company": "Swift Projekat",
+        "title": "ToDoey",
+        "years": "2021",
+        "description": "ToDo aplikacija sa bazom."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Swift",
+        "level": "100%"
+      },
+      {
+        "name": "Java",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "MySQL",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Poke3D",
+        "category": "ios",
+        "image": "poke3d.jpg",
+        "url": "https://github.com/mrabasovic/Swift-Calculator"
+      },
+      {
+        "title": "ToDoey",
+        "category": "ios",
+        "image": "todoey.jpg",
+        "url": "https://github.com/mrabasovic/todoey"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here's to the crazy ones, the misfits, the rebels, the troublemakers, the round pegs in the square holes ... the ones who see things differently -- they're not fond of rules, and they have no respect for the status quo. ... You can quote them, disagree with them, glorify or vilify them, but the only thing you can't do is ignore them because they change things. ... They push the human race forward, and while some may see them as the crazy ones, we see genius, because the people who are crazy enough to think that they can change the world, are the ones who do.",
+        "user": "Steve Jobs"
+      }
+      
+    ]
+  }
+}
