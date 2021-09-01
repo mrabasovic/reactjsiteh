@@ -7,7 +7,7 @@
  jQuery(document).ready(function($) {
 
 /*----------------------------------------------------*/
-/* FitText Settings
+/* FitText Settingss
 ------------------------------------------------------ */
 
     setTimeout(function() {
